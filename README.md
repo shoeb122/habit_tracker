@@ -2,7 +2,7 @@
 
 Welcome to the **Smart Habit Tracker** – a minimal and powerful habit-tracking app built with **Python (OOP)** and **Streamlit**.
 
-🔗 **Live Demo:** [habitracker.streamlit.app](https://habitracker.streamlit.app)
+🔗 **Live Demo:** [habitracker.streamlit.app](https://habitracker.streamlit.app/)
 
 ---
 
